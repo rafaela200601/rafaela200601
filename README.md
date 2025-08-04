@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm from 2006 <br>📚 I'm currently learning HTML,CSS and JavaScript<br>🎯 Goals: English skills, in love with technology<br>🎲 Fun fact: in love series and pets</p>
+<p align="left">✨ I'm from 2006 <br>📚 I'm currently learning HTML,CSS and JavaScript<br>🎯 Goals: English skills, in love with technology<br>🎲 Fun fact: in love with series and pets</p>
 
 ###
 
